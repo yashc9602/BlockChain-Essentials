@@ -1,2 +1,3 @@
 # BlockChain-Essentials
-LetsUpgrade Assignment
+LetsUpgrade Assignment 
+About blockchain
